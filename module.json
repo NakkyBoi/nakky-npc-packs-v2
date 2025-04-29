@@ -36,6 +36,6 @@
     }
   ],
   "manifest": "https://yourhost.com/manifest.json",
-  "download": "https://yourhost.com/nakky_npc_packs_v2_module.zip",
+  "download": "https://nakkyboi.github.io/nakky-npc-packs-v2/nakky_npc_packs_v2_module.zip",
   "url": "https://yourwebsite.com"
 }
