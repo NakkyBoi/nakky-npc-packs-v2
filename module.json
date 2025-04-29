@@ -1,0 +1,41 @@
+{
+  "id": "nakky-npc-packs-v2",
+  "name": "Nakky NPC Packs V2",
+  "title": "Nakky NPC Packs V2",
+  "description": "A collection of dark-themed NPCs for Pathfinder 2E, including the demonically blessed Lord Loss.",
+  "author": "Nakky NPC Packs",
+  "version": "1.0.0",
+  "minimumCoreVersion": "11",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "13",
+    "maximum": "14"
+  },
+  "system": "pf2e",
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "4.5.0",
+          "verified": "4.8.0"
+        }
+      }
+    ]
+  },
+  "esmodules": [],
+  "styles": [],
+  "packs": [
+    {
+      "name": "lord-loss-collection",
+      "label": "Lord Loss Collection",
+      "system": "pf2e",
+      "path": "packs/lord-loss-collection.db",
+      "type": "Actor"
+    }
+  ],
+  "manifest": "https://yourhost.com/manifest.json",
+  "download": "https://yourhost.com/nakky_npc_packs_v2_module.zip",
+  "url": "https://yourwebsite.com"
+}
